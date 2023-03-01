@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\ThinkQuan\MyApp\ThinkProjects\obj\Debug\net6.0\ThinkProjects.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ThinkQuan\MyApp\ThinkProjects\obj\Debug\net6.0\ThinkProjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ThinkQuan\MyApp\ThinkProjects\obj\Debug\net6.0\ThinkProjects.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ThinkQuan\MyApp\ThinkProjects\obj\Debug\net6.0\ThinkProjects.AssemblyInfo.cs
+C:\Users\User\Desktop\ThinkQuan\MyApp\ThinkProjects\obj\Debug\net6.0\ThinkProjects.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ThinkQuan\MyApp\ThinkProjects\bin\Debug\net6.0\ThinkProjects.exe
+C:\Users\User\Desktop\ThinkQuan\MyApp\ThinkProjects\bin\Debug\net6.0\ThinkProjects.deps.json
+C:\Users\User\Desktop\ThinkQuan\MyApp\ThinkProjects\bin\Debug\net6.0\ThinkProjects.runtimeconfig.json
+C:\Users\User\Desktop\ThinkQuan\MyApp\ThinkProjects\bin\Debug\net6.0\ThinkProjects.dll
+C:\Users\User\Desktop\ThinkQuan\MyApp\ThinkProjects\bin\Debug\net6.0\ThinkProjects.pdb
+C:\Users\User\Desktop\ThinkQuan\MyApp\ThinkProjects\obj\Debug\net6.0\ThinkProjects.dll
+C:\Users\User\Desktop\ThinkQuan\MyApp\ThinkProjects\obj\Debug\net6.0\refint\ThinkProjects.dll
+C:\Users\User\Desktop\ThinkQuan\MyApp\ThinkProjects\obj\Debug\net6.0\ThinkProjects.pdb
+C:\Users\User\Desktop\ThinkQuan\MyApp\ThinkProjects\obj\Debug\net6.0\ThinkProjects.genruntimeconfig.cache
+C:\Users\User\Desktop\ThinkQuan\MyApp\ThinkProjects\obj\Debug\net6.0\ref\ThinkProjects.dll
