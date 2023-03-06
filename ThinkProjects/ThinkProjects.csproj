@@ -5,11 +5,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-  <StartupObject>ThinkProjects.OOPs.Menu</StartupObject>	  
+  <StartupObject>ThinkProjects.Test2.Krishnamurthy</StartupObject>	  
   </PropertyGroup>
-
-  <ItemGroup>
-    <Folder Include="Assignments\" />
-  </ItemGroup>
 
 </Project>

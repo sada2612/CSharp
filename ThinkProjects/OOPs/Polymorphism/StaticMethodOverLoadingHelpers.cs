@@ -1,4 +1,4 @@
-﻿using ThinkProjects.OOPs;
+﻿using ThinkProjects.OOPs.Polymorphism;
 
 internal static class StaticMethodOverLoadingHelpers
 {

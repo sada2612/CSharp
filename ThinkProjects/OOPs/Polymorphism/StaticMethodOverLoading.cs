@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ThinkProjects.OOPs
+namespace ThinkProjects.OOPs.Polymorphism
 {
     internal class StaticMethodOverLoading
     {//wap to show overloading of static method.
@@ -14,9 +14,9 @@ namespace ThinkProjects.OOPs
         }
         public static void InputTypeCheck(int type)
         {
-            Console.WriteLine("your passed input datatype is int : "+type);
+            Console.WriteLine("your passed input datatype is int : " + type);
         }
-        public static void InputTypeCheck(string type) 
+        public static void InputTypeCheck(string type)
         {
             Console.WriteLine("your passed input datatype is string : " + type);
         }
@@ -31,12 +31,12 @@ namespace ThinkProjects.OOPs
         public static void InputTypeCheck(long type)
         {
             Console.WriteLine("your passed input datatype is  long  :" + type);
-        
+
         }
-       
+
         static void Main(string[] args)
         {
-           
+
             InputTypeCheck("name");
         }
     }

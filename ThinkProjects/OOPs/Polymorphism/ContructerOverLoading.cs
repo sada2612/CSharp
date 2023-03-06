@@ -4,17 +4,18 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ThinkProjects.OOPs
+namespace ThinkProjects.OOPs.Polymorphism
 {
     internal class ContructerOverLoading
     {
-        public ContructerOverLoading(){
+        public ContructerOverLoading()
+        {
 
             Console.WriteLine("hii it's defualt contructer and as well as no aregument/parameterless contructer");
-               }
-      public  ContructerOverLoading(string Name)
+        }
+        public ContructerOverLoading(string Name)
         {
-            Console.WriteLine("Hii "+Name+" it's parametrised contructruter hi countain the string parameter");
+            Console.WriteLine("Hii " + Name + " it's parametrised contructruter hi countain the string parameter");
         }
         public ContructerOverLoading(int age)
         {
