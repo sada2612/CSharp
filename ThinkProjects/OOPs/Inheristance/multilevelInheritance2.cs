@@ -19,7 +19,7 @@ namespace ThinkProjects.OOPs.Inheristance
         string seat = "Coca";
         public void display()
         {
-            Console.WriteLine(foodstring+" 1 product : "+feat+" 2 product"+seat);
+            Console.WriteLine(base.foodstring+" 1 product : "+feat+" 2 product"+seat);
         }
     }
     internal class multilevelInheritance2
