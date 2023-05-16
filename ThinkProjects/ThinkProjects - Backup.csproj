@@ -5,11 +5,13 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-  <StartupObject>ThinkProjects.loops.IfElse</StartupObject>	  
+  <StartupObject>ThinkProjects.Destructer.Desructer</StartupObject>	  
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Assignments\" />
+    <Compile Remove="Assignments\**" />
+    <EmbeddedResource Remove="Assignments\**" />
+    <None Remove="Assignments\**" />
   </ItemGroup>
 
 </Project>
